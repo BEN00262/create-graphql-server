@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "create-graphql-server":"node index.js"
+    "create-graphql-server":"index.js"
   },
   "keywords": [],
   "author": "",

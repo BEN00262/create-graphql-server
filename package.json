@@ -1,7 +1,7 @@
 {
-  "name": "sampleGen",
+  "name": "create-graphql-server",
   "version": "1.0.0",
-  "description": "",
+  "description": "simple graphql server template generation with support for permissions using graphql-shield and query complexity rules using graphql-validation-complexity",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,8 +10,12 @@
     "create-graphql-server":"index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "BEN00262",
   "license": "ISC",
+  "homepage": "https://github.com/BEN00262/create-graphql-server",
+  "repository": {
+    "url": "https://github.com/BEN00262/create-graphql-server"
+  },
   "dependencies": {
     "chalk": "^4.1.0",
     "fs-extra": "^9.1.0",
